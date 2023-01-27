@@ -1,0 +1,89 @@
+.Overall{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 1250px;
+  margin: auto;
+  padding-top: 100px;
+  
+  
+  
+}
+.heading{
+  justify-content: center;
+  text-align: center;
+  color: rgb(48, 48, 79);
+}
+.m,.b,.bird,.f{
+  
+  min-width: 200px;
+  min-height: 50px;
+  background-color: rgb(48, 48, 79);
+  color: white;
+  margin-left:20px;
+  border-radius: 10px;
+  cursor: pointer; 
+}
+.DisplayFlex{
+  display: flex;
+  align-items: center;
+  
+  justify-content: center;
+  max-width: 1250px;
+  margin: auto;
+  width: 100%;
+}
+
+img{
+  max-width: 200px;
+  max-height: 300px;
+  padding-left: 30px;
+
+}
+.Searchpanel{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+}
+.Search{
+  border: 2px solid rgb(163, 161, 161);
+  min-width: 450px;
+  min-height: 30px;
+  border-right: none;
+  background-color: gainsboro;
+  
+}
+.head{
+  
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.PIC{
+  border: 2px solid rgb(48, 48, 79);
+  border-left: none;
+  max-width: 50px;
+  min-height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:  rgb(48, 48, 79);
+  /* padding-right: 20px; */
+}
+ .search-icon{
+  max-width: 40px;
+  max-height: 30px;
+  padding-right: 25px;
+
+} 
+.heading_title{
+  text-shadow: 100px;
+  color: rgb(48, 48, 79);
+  font-style:italic;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
